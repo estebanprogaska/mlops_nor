@@ -16,11 +16,10 @@ Para visualizar la documentación de la api [click aquí](https://api-nor-test2.
 <img src="sources/images/Arquitectura.png" alt="esquema" width="600"/>
 
 
-## Prueba
+## Variables Pedictoras
 
 Para testear correctamente la api, se recomiendan los siguientes parametros:
 
-## Variables Pedictoras
 - API Gravedad, Digital 60°F	60.2
 - Densidad, Digital 15°C	737.8
 - PIE Evaporado	32.2
