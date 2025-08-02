@@ -16,6 +16,8 @@ Para visualizar la documentación de la api [click aquí](https://api-nor-test2.
 <img src="sources/images/Arquitectura.png" alt="esquema" width="600"/>
 
 
+<br>
+
 ## Variables Pedictoras
 
 Para testear correctamente la api, se recomiendan los siguientes parametros:
