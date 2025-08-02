@@ -13,7 +13,7 @@ UAI Ramo de MLOPs. Estimación de octanaje.
 Para visualizar la documentación de la api [click aquí](https://api-nor-test2.fly.dev/docs)
 
 ## Esquema general del proyecto
-![esquema](sources/images/arquitectura.jpg)
+<img src="sources/images/arquitectura.jpg" alt="esquema" width="600"/>
 
 
 ## Prueba
