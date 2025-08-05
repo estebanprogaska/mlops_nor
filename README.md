@@ -18,12 +18,9 @@ UAI Ramo de MLOPs.
 - Para desarrollar esta migración se realizaron varias pruebas de verificación del modelo en cuanto a su poder de estimación, tanto en la fase de desarrollo, como en la fase de despliegue en la aplicación FLY.IO
 
 
-
 ## API ENTORNO WEB
 Para visualizar la documentación de la api [click aquí](https://api-nor-test2.fly.dev/docs)
 
-## Esquema general del proyecto
-<img src="sources/images/Arquitectura.png" alt="esquema" width="600"/>
 
 ## API ENTORNO LOCAL
 - El archivo NOR_LASSO_01.py en este archivo esta el modelo de estimación y la generación de archivos PKL.
@@ -35,7 +32,6 @@ Para visualizar la documentación de la api [click aquí](https://api-nor-test2.
 - Ejecutar el script
 - python NOR_LASSO_02.py
 - Revisar la predicción impresa en la consola.
-
 
 <br>
 
@@ -63,6 +59,8 @@ Para testear correctamente la api, se recomiendan los siguientes parametros:
 - MTBE	9.50
 - Oxígeno total.	1.74
 
+## Esquema general del proyecto
+<img src="sources/images/Arquitectura.png" alt="esquema" width="600"/>
 
 
 
