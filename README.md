@@ -19,13 +19,22 @@ UAI Ramo de MLOPs.
 
 
 
-## API ENTOR WEB
+## API ENTORNO WEB
 Para visualizar la documentación de la api [click aquí](https://api-nor-test2.fly.dev/docs)
 
 ## Esquema general del proyecto
 <img src="sources/images/Arquitectura.png" alt="esquema" width="600"/>
 
 ## API ENTORNO LOCAL
+- El archivo NOR_LASSO_01.py en este archivo esta el modelo de estimación y la generación de archivos PKL.
+- El archivo NOR_LASSO_02.py , se puede desplegar en entorno local la API.
+- Clonar el repositorio.
+- Crear y activar entorno virtual.
+- Instalar dependencias.
+- Ajustar rutas de los pickles.
+- Ejecutar el script
+- python NOR_LASSO_02.py
+- Revisar la predicción impresa en la consola.
 
 
 <br>
