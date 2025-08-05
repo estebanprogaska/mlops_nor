@@ -19,11 +19,13 @@ UAI Ramo de MLOPs.
 
 
 
-## API
+## API ENTOR WEB
 Para visualizar la documentación de la api [click aquí](https://api-nor-test2.fly.dev/docs)
 
 ## Esquema general del proyecto
 <img src="sources/images/Arquitectura.png" alt="esquema" width="600"/>
+
+## API ENTORNO LOCAL
 
 
 <br>
