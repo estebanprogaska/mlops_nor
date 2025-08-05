@@ -6,7 +6,17 @@
 
 ## Descripción del proyecto
 
-UAI Ramo de MLOPs. Estimación de octanaje.
+UAI Ramo de MLOPs. 
+
+- Estimación de octanaje.
+- ENAP Produce dos tipos de gasolinas, la gasolina de 93 octanos en sus versiones región metropolitana y regiones, la misma condición se da para el producto de gasolina 97 octanos. 
+
+- El problema de negocio a resolver es que ambos productos se producen En promedio con una sobre especificación de 0.8 octanos. 
+
+- La idea de este trabajo es llevar un modelo de estimación de machine learning, desde un ambiente de desarrollo hasta un ambiente productivo.
+
+- Para desarrollar esta migración se realizaron varias pruebas de verificación del modelo en cuanto a su poder de estimación, tanto en la fase de desarrollo, como en la fase de despliegue en la aplicación FLY.IO
+
 
 
 ## API
